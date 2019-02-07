@@ -1,4 +1,4 @@
-# Simulacion de Procesos Financieros 2018-II
+﻿# Simulacion de Procesos Financieros 2018-II
 
 En este repositorio se encuentran todas las notas del curso simulación de procesos financieros. Material adiciona será suministrado durante clase.
 
@@ -57,3 +57,5 @@ Este curso esta dividido en los siguiente temas:
 4. Enfoques para el cálculo del VaR
 5. Cálculo del VaR usando simulación Monte Carlo
 6. Cálculo del Var para un portafolio de bonos 
+
+Me gustan las papitas. 
